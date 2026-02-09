@@ -3,7 +3,7 @@ import math
 from PIL import Image
 import os
 import os.path
-from PyQt6.QtWidgets import *
+from PySide6.QtWidgets import *
 import copy
 
 
